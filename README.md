@@ -4,11 +4,11 @@ Un **Animador Recreativo** con una fuerte pasión por la **Ciencia de Datos** y 
 
 He adquirido sólidos conocimientos en **Data Science**, con un enfoque en las siguientes herramientas y tecnologías:
 Mis habilidades:
-💻 Python | SQL
-📚 Pandas | Numpy | Matplotlib | Seaborn | Scikit-learn | FastAPI | Streamlit
-🛢 MySQL | Almacenamiento en la nube | AWS
-📊 Power BI
-⚙️ GitHub | Jupyter | Visual Studio Code
+ - 💻 Python | SQL
+ - 📚 Pandas | Numpy | Matplotlib | Seaborn | Scikit-learn | FastAPI 
+ - 🛢 MySQL | Almacenamiento en la nube | AWS
+ - 📊 Power BI
+ - ⚙️ GitHub | Jupyter | Visual Studio Code
 
 Estoy enfocado en aplicar estas habilidades para resolver problemas complejos y crear soluciones innovadoras a través del análisis de datos y la programación.
 
