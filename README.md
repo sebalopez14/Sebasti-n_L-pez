@@ -18,3 +18,4 @@ Busco incorporarme en un ambiente de trabajo saludable y desafiante que me permi
 
 ### Contacto ✉️
 - sebalopez1014@gmail.com
+- linkedin.com/in/sebastian-lopez-bianchessi
