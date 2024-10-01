@@ -11,8 +11,6 @@ He adquirido sólidos conocimientos en **Data Science**, con un enfoque en las s
 - 📊 Power BI
 - ⚙️ GitHub | Jupyter | Visual Studio Code
 
-Además, 
-
 ### ¿Cuál es mi objetivo? 🚀
 Busco incorporarme en un ambiente de trabajo saludable y desafiante que me permita seguir creciendo profesional y personalmente. Mi objetivo es aplicar mis conocimientos en **data science**, así como seguir desarrollando nuevas habilidades en campos relacionados con la tecnología, la programación y el análisis de datos, contribuyendo a crear soluciones eficientes y creativas.
 
