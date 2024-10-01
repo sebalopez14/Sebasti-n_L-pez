@@ -1,6 +1,6 @@
 ### ¡Hola! 👋 Soy Sebastián
 
-Un **Animador Recreativo** con una fuerte pasión por la **Ciencia de Datos** y la **Tecnología**. Mi experiencia en la animación me ha permitido desarrollar habilidades comunicativas entre otras competencias que me han ayudado a destacar en la gestión de grupos y en la colaboración con diferentes perfiles profesionales, siempre aportando un enfoque dinámico y creativo.
+Un **Animador Recreativo** con una fuerte pasión por la **Tecnología**. Mi experiencia en la animación me ha permitido desarrollar habilidades comunicativas entre otras competencias que me han ayudado a destacar en la gestión de grupos y en la colaboración con diferentes perfiles profesionales, siempre aportando un enfoque dinámico y creativo.
 
 Además, poseo un **nivel avanzado de inglés (C2)**, certificado por el **EF SET**, lo que me permite comunicarme con fluidez y adaptarme a entornos internacionales. También cuento con experiencia previa en **diseño gráfico** utilizando herramientas como **Canva** y otras plataformas de diseño, lo que me permite aportar una perspectiva visual atractiva y efectiva en la presentación de ideas y datos.
 
